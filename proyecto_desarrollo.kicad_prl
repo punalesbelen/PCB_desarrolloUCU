@@ -48,7 +48,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "ffffffff_ffffffff_fffffff7_ffffffef",
+    "visible_layers": "ffffffff_ffffffff_fffffff7_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -57,7 +57,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "bombeador.kicad_prl",
+    "filename": "proyecto_desarrollo.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {

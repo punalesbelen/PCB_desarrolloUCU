@@ -6175,7 +6175,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_ACP_CA6-H2,5_Horizontal"
+		(property "Footprint" "footprints:601030_AVX"
 			(at 86.36 46.99 0)
 			(effects
 				(font
@@ -8731,7 +8731,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_ACP_CA6-H2,5_Horizontal"
+		(property "Footprint" "footprints:601030_AVX"
 			(at 176.53 46.99 0)
 			(effects
 				(font
